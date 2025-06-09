@@ -1,0 +1,3 @@
+date,symbol,type,quantity,price,fee
+2025-06-01,SOXL,buy,10,15.70,0.5
+2025-06-05,SOXL,sell,5,17.50,0.5
